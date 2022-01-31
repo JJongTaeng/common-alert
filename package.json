@@ -2,8 +2,8 @@
   "name": "common-ialert",
   "version": "1.0.2",
   "description": "Alert Component that can be used simply by downloading the module without setting",
-  "main": "dist/cjs/index.js",
-  "module": "dist/esm/index.js",
+  "main": "dist/cjs/src/index.js",
+  "module": "dist/esm/src/index.js",
   "scripts": {
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
     "webpack": "webpack",
