@@ -1,6 +1,8 @@
-import { Alert } from "../src/index";
+import { Alert } from "../src";
+import { Button } from "common-iform";
 
 export default function makeMessageExample() {
+  new Button();
   const $setMessageButton = document.querySelector('#messageSetMessage');
   const $visibleTrueButton = document.querySelector('#messageVisibleTrue');
   const $visibleFalseButton = document.querySelector('#messageVisibleFalse');

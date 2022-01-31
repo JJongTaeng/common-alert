@@ -1,6 +1,5 @@
 .layout {
-    min-height: 100vh;
-    padding: 20px;
+    min-height: calc(100vh - 200px);
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -45,6 +44,11 @@ footer {
     background: #999;
     display: flex;
     justify-content: center;
+    flex-direction: column;
     align-items: center;
     font-size: 2rem;
+}
+
+.made-by {
+    font-size: 1rem;
 }
