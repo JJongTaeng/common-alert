@@ -1,5 +1,5 @@
 {
-  "name": "common-alert",
+  "name": "common-ialert",
   "version": "1.0.0",
   "description": "Alert Component that can be used simply by downloading the module without setting",
   "main": "dist/cjs/index.js",
