@@ -1,6 +1,6 @@
 {
   "name": "common-ialert",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Alert Component that can be used simply by downloading the module without setting",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
